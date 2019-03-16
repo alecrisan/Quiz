@@ -1,0 +1,5 @@
+Ted,10
+Robin,3
+Lily,4
+Marshall,6
+Barney,8

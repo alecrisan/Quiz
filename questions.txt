@@ -1,0 +1,7 @@
+10,f,fs,10
+6,fs,hg,8
+5,rfsg,gf,6
+3,ds,fg,5
+1,What is the capital of England?,London,4
+2,10*2,20,2
+4,f,d,7
